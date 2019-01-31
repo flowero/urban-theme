@@ -2,13 +2,7 @@
 title: Rubie's Paintings
 email: rubiebravos@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
-  21st Century modern art works, created by a young lady with little heart and brave mind.
-  Art is where she can set herself free, and be real. It has never been skeptical to her.
->>>>>>> eef970d99552834cd3ea36d80c9b16ee20669361
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rubie.info" # the base hostname & protocol for your site
 twitter_username: jekyllrb
