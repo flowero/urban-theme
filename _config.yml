@@ -1,16 +1,15 @@
 # Site settings
 title: Rubie's Paintings
-email: rubieguo@gmail.com
+email: rubiebravos@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 <<<<<<< HEAD
+<<<<<<< HEAD
 
-baseurl: "" # the subpath of your site, e.g. /blog
 =======
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog
->>>>>>> 9119c73f2e94ef07566a61901e217bc12235c999
+  21st Century modern art works, created by a young lady with little heart and brave mind.
+  Art is where she can set herself free, and be real. It has never been skeptical to her.
+>>>>>>> eef970d99552834cd3ea36d80c9b16ee20669361
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rubie.info" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  flowero
